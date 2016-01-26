@@ -10,4 +10,4 @@ This is just for fun, experimenting on a windows system.
 
 ## Maintainer ##
 
-* Luke Williamson <law0036@tigermail.auburn.edu/>
+* Luke Williamson
